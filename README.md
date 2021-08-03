@@ -8,7 +8,7 @@
 
 
 - 👨🏽‍💻 I'm currently a software engineer at Serfiex.
-- 🌱 I'm currently studying the master's degree in web application development at the University of Alicante.
+- 🌱 I'm studying the master's degree in web application development at the University of Alicante.
 - 💬 Ask me about anything!
 - 📫 Email me at: [antoniotmll@gmail.com](mailto:antoniotmll@gmail.com).
 
