@@ -7,7 +7,7 @@
 ### 👨 About Me
 
 
-- 👨🏽‍💻 I'm currently a software engineer at Serfiex.
+- 👨🏽‍💻 I'm currently a Jr. Analyst and Full stack developer at Avanade.
 - 🌱 I'm studying the master's degree in web application development at the University of Alicante.
 - 💬 Ask me about anything!
 - 📫 Email me at: [antoniotmll@gmail.com](mailto:antoniotmll@gmail.com).
