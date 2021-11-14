@@ -18,8 +18,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniotmll&langs_count=6&theme=tokyonight&layout=compact" alt="Antoniotmll :: Top Langs" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=antoniotmll&show_icons=true&theme=synthwave" alt="antoniotmll :: Profile Stats" /></p>
-
 ### 🛠️ My Skills
 
 #### 👉 Programming languages
