@@ -9,7 +9,7 @@
 
 - 👨🏽‍💻 I'm currently a Jr. Analyst and Back-End developer at Avanade.
 - 🌱 I'm studying the master's degree in web application development at the University of Alicante.
-- 📫 Email me at: [antoniotmll@gmail.com](mailto:antoniotmll@gmail.com).
+- 📫 Email me at: [antoniotmll@gmail.com](mailto:antoniotmll@gmail.com) or [antoniotmll@outlook.com](mailto:antoniotmll@outlook.com).
 
 
 
