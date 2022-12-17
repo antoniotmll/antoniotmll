@@ -4,15 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enqineer&center=true&width=500&height=30">
 </p>
 
-### 👨 About Me
-
-
-- 👨🏽‍💻 I'm currently a Jr. Analyst and Back-End developer at Avanade.
-- 🌱 I'm studying the master's degree in web application development at the University of Alicante.
-- 📫 Email me at: [antoniotmll@gmail.com](mailto:antoniotmll@gmail.com) or [antoniotmll@outlook.com](mailto:antoniotmll@outlook.com).
-
-
-
 ### 🔥 Profile Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniotmll&langs_count=6&theme=tokyonight&layout=compact" alt="Antoniotmll :: Top Langs" /></p>
